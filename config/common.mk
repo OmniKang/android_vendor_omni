@@ -1,4 +1,4 @@
-PRODUCT_BRAND ?= omni
+PRODUCT_BRAND ?= omnikang
 
 # bootanimation
 PRODUCT_COPY_FILES += \
