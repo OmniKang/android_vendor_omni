@@ -52,3 +52,6 @@ PRODUCT_COPY_FILES += \
 
 # Add our overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/omni/overlay/common
+
+# Koush Superuser
+SUPERUSER_EMBEDDED := true
