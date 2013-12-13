@@ -55,3 +55,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/omni/overlay/common
 
 # Koush Superuser
 SUPERUSER_EMBEDDED := true
+
+PRODUCT_PACKAGES += \
+    Superuser \
+    su
