@@ -31,7 +31,10 @@ PRODUCT_PACKAGES += \
 	nano \
 	htop \
 	powertop \
-	lsof
+	lsof \
+	mount.exfat \
+	fsck.exfat \
+	mkfs.exfat
 
 # Openssh
 PRODUCT_PACKAGES += \
