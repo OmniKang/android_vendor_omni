@@ -35,7 +35,11 @@ PRODUCT_PACKAGES += \
     openvpn \
     powertop \
     tune2fs \
-    vim
+    vim \
+    ntfsfix \
+    ntfs-3g \
+    mkntfs
+
 
 # Openssh
 PRODUCT_PACKAGES += \
